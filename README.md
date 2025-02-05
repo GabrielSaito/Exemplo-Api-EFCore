@@ -7,7 +7,7 @@ Este projeto é um **exemplo básico** de uma API para gerenciar filmes em uma l
 
 ## Requisitos
 
-- .NET 6 ou superior
+- .NET 8
 - PostgreSQL ou outro banco de dados relacional configurado
 - Entity Framework Core
 
