@@ -18,7 +18,7 @@ Este projeto é um **exemplo básico** de uma API para gerenciar filmes em uma l
 Clone o repositório para a sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/exemplo-api-locadora.git
+git clone https://github.com/GabrielSaito/Exemplo-Api-EFCore.git
 cd exemplo-api-locadora
 ```
 
